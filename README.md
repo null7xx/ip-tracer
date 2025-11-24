@@ -1,6 +1,8 @@
 # ip-tracer
-# SCREENSHOT
+# SCREENSHOTS
 ![Preview](null.jpeg)
+
+![Preview](nulll.jpeg)
 
 
 ## 📌 Features
